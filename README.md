@@ -1,5 +1,28 @@
-## Hi there 👋
+# 🖤 Black Lotus Branding
 
+Turning Ideas Into Identities.
+
+Welcome to the official GitHub profile for Black Lotus Branding.
+
+## Current Projects
+
+- Employee Portal
+- AI Academy
+- Employee Handbook
+- Brand Assets
+- Client Workflow Automation
+- SOP Library
+
+## Learning Goals
+
+- Git
+- GitHub
+- VS Code
+- Codex
+- AI Automation
+- Web Development
+
+Thanks for visiting!
 <!--
 **BlackLotusBranding/BlackLotusBranding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
